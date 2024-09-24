@@ -2,7 +2,7 @@
 // @name         Khan answer revealer
 // @version      1.0
 // @description  Khan hack 
-// @author       IlyTobias (github@ilytobias)
+// @author       jhon (github@jhon01xx)
 // @match        https://*.khanacademy.org/*
 // @grant        none
 // ==/UserScript==
